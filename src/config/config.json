@@ -1,0 +1,7 @@
+{
+  "OUTPUT_FILE_NAME": "./citizens-super-secret-info.txt",
+  "INPUT_FILE_NAME": "./super-secret-data.txt",
+  "DECRYPT_URL": "https://txje3ik1cb.execute-api.us-east-1.amazonaws.com/prod/decrypt",
+  "MAX_LINES_PER_BATCH": 1000,
+  "API_KEY": ""
+}

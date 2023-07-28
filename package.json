@@ -1,0 +1,30 @@
+{
+  "name": "palpatine-exercise",
+  "version": "1.0.0",
+  "description": "Generate citizens super secret info based on the intercepted encrypted information",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flaviomau/palpatine-exercise.git"
+  },
+  "author": "Flavio Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flaviomau/palpatine-exercise/issues"
+  },
+  "homepage": "https://github.com/flaviomau/palpatine-exercise#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "@types/node": "^20.4.5",
+    "axios": "^1.4.0",
+    "reflect-metadata": "^0.1.13",
+    "tsyringe": "^4.8.0"
+  }
+}
